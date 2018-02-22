@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map TroykaDHT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DHT 	KEYWORD1	DHT
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin				KEYWORD2
+read 				KEYWORD2
+getState			KEYWORD2
+getTemperatureC 	KEYWORD2
+getTemperatureK		KEYWORD2
+getTemperatureF		KEYWORD2
+getHumidity			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DHT_OK				LITERAL1
+DHT_ERROR_CHECKSUM	LITERAL1
+DHT_ERROR_TIMEOUT	LITERAL1
+DHT_ERROR_NO_REPLY	LITERAL1
+DHT11	LITERAL1
+DHT21	LITERAL1
+DHT22	LITERAL1
