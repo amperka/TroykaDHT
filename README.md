@@ -1,7 +1,7 @@
 TroykaDHT
 =========
 
-Библиотека для Arduino, позволяющая считывать данные датчиков серии DHT, например [DHT11 (Troyka-модуль) ](http://amperka.ru/product/troyka-dht11), с помощью Arduino без необходимости задумываться о деталях протокола.
+Библиотека для Arduino, позволяющая считывать данные датчиков серии DHT, например [DHT11 (Troyka-модуль) ](http://amperka.ru/product/troyka-temperature-humidity-sensor-dht11), с помощью Arduino без необходимости задумываться о деталях протокола.
 
 Установка
 =========
